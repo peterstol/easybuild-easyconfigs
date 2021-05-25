@@ -17,8 +17,8 @@ checksums = ['08f1d66e49c83c76c56c4225c53aee44f41e0592c8bdc84b8c4ecd975700e045']
 
 dependencies = [
     ('Java', '11', '', True),
-    ('R', '3.6.0'),
-    ('R-bundle-Bioconductor', '3.9', versionsuffix),
+    ('R', '4.0.0'),
+    ('R-bundle-Bioconductor', '3.11', versionsuffix),
 ]
 
 sanity_check_paths = {
